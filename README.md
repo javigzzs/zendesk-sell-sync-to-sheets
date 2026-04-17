@@ -67,21 +67,21 @@ You may need to adjust:
 
 ---
 
-## ⚠️ Disclaimer on AI usage
+## Note on development process
 
-Some parts of this project were developed with the help of AI tools.
+Some parts of this project were refined with the help of AI tools during development.
 
-That said, the overall design, logic, and structure were adapted, tested, and integrated manually to solve a real use case.
+The final structure, field mapping decisions, cleanup, and integration were adapted manually based on a real business use case.
 
 ---
 
 ## Project structure
 src/
-config.js
-api.js
-syncDeals.js
-seedDeals.js
-users.js
+  config.js
+  api.js
+  syncDeals.js
+  seedDeals.js
+  users.js
 
 
 ---
