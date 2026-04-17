@@ -50,7 +50,7 @@ This project focuses on:
 
 ---
 
-## ⚠️ Important note (compatibility)
+## Important note (compatibility)
 
 This project was built based on a specific Zendesk Sell setup.
 
